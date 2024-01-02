@@ -1,3 +1,6 @@
+This is an application made using NextJS, Typescript, and ShadCN. User can search for a GitHub username and get data for the same.
+Deployed on vercel and can be checked out [here](https://github-data-jkxvvlxh2-sushantn16.vercel.app).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
